@@ -3,7 +3,7 @@ var swiper = new Swiper(".myscrubsCollection", {
     breakpoints: {
 
       0: {
-          slidesPerView: 2, //화면에 보이는 이미지 갯수
+          slidesPerView: 1, //화면에 보이는 이미지 갯수
           spaceBetween: 30, //이미지사이의 여백
       },
       768: {
